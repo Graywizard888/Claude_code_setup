@@ -305,7 +305,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 *Running AI on Android, one Termux session at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Graywizard-black?style=flat-square&logo=github)](https://github.com/Graywizard)
+[![GitHub](https://img.shields.io/badge/GitHub-Graywizard-black?style=flat-square&logo=github)](https://github.com/Graywizard888)
 
 </div>
 
