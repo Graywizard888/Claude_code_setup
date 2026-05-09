@@ -211,7 +211,7 @@ Read(.env), Read(secrets/**), Read(**/*.key)
 
 ```
 ~/ (Termux home)
-├── claude_code_setup1.py       ← this script
+├── claude_code_setup.py       ← this script
 └── .claude/
     ├── settings.json           ← hardened Claude Code settings
     └── CLAUDE.md               ← your personalised context file
